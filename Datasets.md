@@ -12,7 +12,7 @@ The notebooks read **FlowTuple v4** records from the UCSD Network Telescope, sto
 
 ### Credentials
 
-Access requires `UCSD_NT_S3_ACCESS_KEY` / `UCSD_NT_S3_SECRET_KEY`, shared through the project directory on Expanse. These should already be preloaded in your shell via `.bashrc` + `.ucsdnts3.env` on Expanse - see your course's SDSC Expanse access instructions if you have not set this up yet.
+Access requires `UCSD_NT_S3_ACCESS_KEY` / `UCSD_NT_S3_SECRET_KEY`, shared through the project directory on Expanse. These should already be preloaded in your shell via `.bashrc` (from https://github.com/CAIDA/nids-expanse-2026) + `/expanse/lustre/projects/sdp178/kmok/.ucsdnts3.env` on Expanse - see your course's SDSC Expanse access instructions if you have not set this up yet.
 
 ### FlowTuple Fields Used in This Module
 
