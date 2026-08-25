@@ -1,12 +1,18 @@
 README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 ### Network Infrastructure Data Science (NIDS) Module
+
 ---
+
 # Measuring Internet Disruptions with the UCSD Network Telescope
 
 ## Learning Objectives
 
 The goal of this assignment is to understand how a **network telescope (darknet)** passively observes unsolicited Internet traffic, how to use **PySpark** to filter and aggregate large-scale FlowTuple flow records read directly from S3-hosted Avro files on an HPC cluster, how to attribute that traffic to a source country and origin AS, how to scale an interactive prototype into a **Slurm batch job array** to cover a much longer time period, and how to detect and interpret a real anomaly — a national Internet blackout — in the resulting time series. This assignment builds on the ASN concepts introduced in _nids-asn-introduction_, the PySpark fundamentals from _nids-dns-ecosystem_, and the network-flow concepts from _nids-telescope-traffic_.
+
+## Slides
+
+- [ETP week 07 UCSD Telescope](slides/ETP-Week-07-expanse.pptx)
 
 ## Overview
 
