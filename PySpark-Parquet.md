@@ -1,4 +1,4 @@
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | PySpark & Parquet ⮕ | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | PySpark & Parquet ⮕ | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 # PySpark & Parquet Guide: What's Different in This Module
 
@@ -60,4 +60,4 @@ The handoff itself uses plain pandas, not `pyarrow` directly the way `nids-teles
 - **Clear Spark's cache between loop iterations** in any long-lived local session that runs the same query shape repeatedly.
 - **Write Parquet from Spark, read Parquet with pandas** once the aggregation is done - don't keep a Spark session alive just to read back your own output.
 
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | PySpark & Parquet ⮕ | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | PySpark & Parquet ⮕ | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)

@@ -1,4 +1,4 @@
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | Task 3 ⮕ | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | Task 3 Guide ⮕ | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 # Task 3 Guidance: Porting the Prototype into a Batch Job
 
@@ -62,4 +62,4 @@ Write exactly the files [Datasets.md](Datasets.md) documents, one row (or one ro
 
 Write your answer in the **Q3** markdown cell near the end of [ir_traffic_prototype.ipynb](ir_traffic_prototype.ipynb) (just before its final `spark.stop()` cell), not in this guide.
 
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | Task 3 ⮕ | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | Task 3 Guide ⮕ | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)

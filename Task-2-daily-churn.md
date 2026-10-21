@@ -1,4 +1,4 @@
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | Task 2 ⮕ | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | Task 2 Guide ⮕ | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 # Task 2 Guidance: Day-Over-Day Churn at `/24` Granularity
 
@@ -63,4 +63,4 @@ disappeared_subnet24_frames.append(pd.DataFrame(
 
 - [ ] Q2: Why look at churn in terms of `/24` subnets rather than individual source IPs or whole ASNs? What real-world explanations (besides a country-wide outage) could cause a `/24` to "disappear" for a day?
 
-[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | Task 2 ⮕ | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | Task 2 Guide ⮕ | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)

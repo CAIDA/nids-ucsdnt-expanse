@@ -1,4 +1,4 @@
-README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 ### Network Infrastructure Data Science (NIDS) Module
 ---
@@ -55,4 +55,4 @@ nids-ucsdnt-expanse
 - **Expanse**: SDSC's HPC cluster, used here to run both the interactive Jupyter session (for the prototype notebook) and the Slurm batch job array (for the full period).
 - **Drop day**: A day whose observed traffic falls sharply relative to a recent baseline (e.g. the previous day) - used in Task 4 as a simple anomaly-detection heuristic, then checked against a real-world event.
 
-README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)

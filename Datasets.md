@@ -1,4 +1,4 @@
-[README](README.md) | [Introduction](Introduction.md) | Datasets ⮕ | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | Datasets ⮕ | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
 # Datasets
 
@@ -49,4 +49,4 @@ Task 4 asks you to correlate any traffic drop you detect against a real, indepen
 
 [ [CAIDA UCSD Network Telescope](https://www.caida.org/projects/network_telescope/) | [CAIDA telescope datasets](https://catalog.caida.org/search?query=telescope) ]
 
-[README](README.md) | [Introduction](Introduction.md) | Datasets ⮕ | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1](Task-1-aggregate-daily-traffic.md) | [Task 2](Task-2-daily-churn.md) | [Task 3](Task-3-batch-job.md) | [Task 4](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
+[README](README.md) | [Introduction](Introduction.md) | Datasets ⮕ | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
