@@ -1,8 +1,10 @@
 README ⮕ | [Introduction](Introduction.md) | [Datasets](Datasets.md) | [PySpark & Parquet](PySpark-Parquet.md) | [Tasks](Tasks.md) | [Task 1 Guide](Task-1-aggregate-daily-traffic.md) | [Task 2 Guide](Task-2-daily-churn.md) | [Task 3 Guide](Task-3-batch-job.md) | [Task 4 Guide](Task-4-full-period-analysis.md) | [Prototype Notebook](ir_traffic_prototype.ipynb) | [Analysis Notebook](analysis.ipynb)
 
-### Network Infrastructure Data Science (NIDS) Module
+### [Network Infrastructure Data Science (NIDS) Assignment](https://www.caida.org/projects/nids/)
 ---
 # Measuring Internet Disruptions with the UCSD Network Telescope
+
+**authors:** Ricky Mok, Bradley Huffaker, Nick Terrel
 
 ## Learning Objectives
 
